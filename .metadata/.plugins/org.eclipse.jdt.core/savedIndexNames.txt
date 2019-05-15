@@ -1,0 +1,20 @@
+INDEX VERSION 1.130+C:\udemy\JavaUdemyNF\git-ws\.metadata\.plugins\org.eclipse.jdt.core
+2459802101.index
+1173492126.index
+1834971350.index
+3069216824.index
+569685961.index
+2486258371.index
+2101709689.index
+14645829.index
+301358833.index
+3378945558.index
+432966006.index
+2460387614.index
+288164190.index
+1192204766.index
+277890004.index
+2651580852.index
+2723217748.index
+735527412.index
+3470491431.index
